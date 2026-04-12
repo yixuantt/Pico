@@ -5,11 +5,11 @@
 Pico is a data-free pre-merge calibration method for LoRA adapters.  
 This repository provides a practical implementation with both Python API and CLI, including batch calibration for a folder of LoRA checkpoints.
 
-## Highlights
+## Usages
 
 - Calibrate all LoRA checkpoints under one directory (recursive scan).
 - Preserve per-layer update energy by default (`energy_compensation=True`).
-- B-space calibration (paper setting).
+- B-space calibration.
 - Export calibrated checkpoints to a separate output directory.
 
 ## Install
