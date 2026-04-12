@@ -1,8 +1,4 @@
-# Pico
-
 ![Pico banner](asset/img.png)
-
-Official implementation of:
 
 **Crowded in B-Space: Calibrating Shared Directions for LoRA Merging**  
 
