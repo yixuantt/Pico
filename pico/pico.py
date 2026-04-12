@@ -88,10 +88,7 @@ def _extract_lora_pairs(state_dict: Dict[str, torch.Tensor]) -> Dict[str, Tuple[
 
 class PICO:
     """
-    PICO: Sign and Singular-value aware calibration in LoRA spaces.
-
-    This class is extracted from SASC (with energy compensation) so it can be
-    used as a standalone method outside the merge framework.
+    PICO: Pre-merge interference calibration in output-space
     """
 
     def __init__(
