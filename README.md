@@ -168,10 +168,10 @@ python -m pico.pico
 
 ```bibtex
 @article{tang2026crowded,
-  title   = {Crowded in B-Space: Calibrating Shared Directions for LoRA Merging},
-  author  = {Tang, Yixuan and Yang, Yi},
-  journal = {arXiv preprint arXiv:xxxx.xxxxx},
-  year    = {2026}
+  title={Crowded in B-Space: Calibrating Shared Directions for LoRA Merging},
+  author={Tang, Yixuan and Yang, Yi},
+  journal={arXiv preprint arXiv:2604.16826},
+  year={2026}
 }
 ```
 
